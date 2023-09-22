@@ -1,5 +1,4 @@
 #EXTM3U
-http://45.139.122.199:80/hej/hej/14913
 #EXTINF:-1,13 TV ES
 http://45.139.122.199:80/hej/hej/48641
 #EXTINF:-1,24 Horas ES
